@@ -1,0 +1,5 @@
+.search-container {
+    background-image: url('../../../images/bannerbackground.png');
+    background-size: cover;
+    min-height: 500px;
+}

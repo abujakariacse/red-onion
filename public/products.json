@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://i.ibb.co/Tgz6x29/breakfast1.png",
+    "name": "Bagel and Cream Cheese",
+    "description": "Natural peanut butter blueberry cream cheese cream cheese spread roasted red pepper",
+    "price": 6.99
+  },
+  {
+    "image": "https://i.ibb.co/SnD6Kz5/breakfast2.png",
+    "name": "Breakfast Sandwich",
+    "description": "English muffin black forest olive oil eggs mexican cheese",
+    "price": 9.99
+  },
+  {
+    "image": "https://i.ibb.co/YTMfrYh/breakfast3.png",
+    "name": "Baked Chiken",
+    "description": "Skinless chicken breasts smoked paprika olive oil garlic",
+    "price": 10.99
+  },
+  {
+    "image": "https://i.ibb.co/SXcKwCy/breakfast4.png",
+    "name": "Egg Benedict",
+    "description": "Canadian bacon english muffins rice vinegar lemon",
+    "price": 8.99
+  },
+  {
+    "image": "https://i.ibb.co/Vxn561K/breakfast5.png",
+    "name": "Toast Croissant Fried Egg",
+    "description": "Croissant vanilla bean paste heavy cream powdered sugar",
+    "price": 19.99
+  },
+  {
+    "image": "https://i.ibb.co/SPGZRhH/breakfast6.png",
+    "name": "Full Breakfast Friend Egg Toast Brunch",
+    "description": "Black pudding breakfast sausage beans irish bacon",
+    "price": 25.99
+  }
+]
